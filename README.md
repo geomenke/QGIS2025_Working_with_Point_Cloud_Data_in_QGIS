@@ -52,6 +52,7 @@ Point cloud data is often provided in tiles. After downloading the tiles you nee
 * Filter
 * Export to Raster
 * Style DEM
+* Calculating point density
 
 ### 5 - Editing Point Clouds
 
