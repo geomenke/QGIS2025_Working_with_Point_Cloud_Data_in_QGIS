@@ -48,6 +48,9 @@ Support for point cloud data was added at QGIS version 3.18 in the spring of 202
 QGIS 3.42 Münster. The most recent functionality introduced, is the ability to edit point cloud datasets. The main editing functionality was introduced at QGIS v 3.42 and there will be additional 
 editing features added at QGIS 3.44. You will learn how to edit point clouds at the end of the workshop. 
 
+### Workshop Data
+Download this zip file. Extract the zip archive in a dedicated folder on your hard drive.
+
 ### Tutorial
 The tutorial can be accessed via this [link](https://docs.google.com/document/d/1hWMghUmzSkYkUm4cvnHn2DKLEzGdnxf6dnSMIHNWNfM/edit?usp=sharing)
 
