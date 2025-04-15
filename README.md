@@ -15,17 +15,38 @@ This workshop will teach you how to work with point cloud data in QGIS. You will
 By the end of this workshop, you will be able to use QGIS to effectively visualize, analyze, and process point cloud data.
 
 #### Software
-To participate in this workshop, you will need QGIS 3.42 Münster. This is the latest stable release of QGIS and importantly includes most of the new point cloud processing features. You can download it from the [official QGIS website](https://qgis.org/) or by using the OSGeo4W installer. During the workshop you can use your own point cloud data or the open data that we will provide.
-
+To participate in this workshop, you will need QGIS 3.42 Münster. This is the latest stable release of QGIS and importantly includes most of the new point cloud processing features. 
+You can download it from the [official QGIS website](https://qgis.org/) or by using the OSGeo4W installer. During the workshop you can use your own point cloud data or the open data 
+that we will provide.
 
 ### Instructors
-This workshop has been made by Kurt Menke and Saber Razmjooei for the QGIS User Conference 2025, in Norrköping, Sweden from 2-3 June 2025.
+This workshop has been developed by Kurt Menke and Saber Razmjooei for the QGIS User Conference 2025, in Norrköping, Sweden from 2-3 June 2025.
 
-**Kurt Menke** - In early 2021, Kurt moved from the USA to Denmark and now works for [Septima P/S](https://septima.dk/) in Copenhagen, Denmark. He earned a Master in Geography from the University of New Mexico in 2000. He has a broad skillset. He is a spatial analyst, cartographer, trainer/teacher and author. He has published many QGIS books, the most recent being: [Discover QGIS 3.x - Second Edition](https://locatepress.com/book/dq32), [QGIS for Hydrological Applications - Second Edition](https://locatepress.com/book/hyd2), and [Field Data Collection with QGIS and Mergin Maps](https://locatepress.com/book/mergin-maps) all with [Locate Press](https://locatepress.com/). He was elected as an OsGeo Charter Member in 2015. He is also a fellow of the [Rewilding Institute](https://rewilding.org/) and a board member of [Wild Arizona](https://www.wildarizona.org/).
+**Kurt Menke** - In early 2021, Kurt moved from the USA to Denmark and now works for [Septima P/S](https://septima.dk/) in Copenhagen, Denmark. He earned a Master in Geography from the 
+University of New Mexico in 2000. He has a broad skillset. He is a spatial analyst, cartographer, trainer/teacher and author. He has published many QGIS books, the most recent being: 
+[Discover QGIS 3.x - Second Edition](https://locatepress.com/book/dq32), [QGIS for Hydrological Applications - Second Edition](https://locatepress.com/book/hyd2), and 
+[Field Data Collection with QGIS and Mergin Maps](https://locatepress.com/book/mergin-maps) all with [Locate Press](https://locatepress.com/). He was elected as an OsGeo Charter Member 
+in 2015. He is also a fellow of the [Rewilding Institute](https://rewilding.org/) and a board member of [Wild Arizona](https://www.wildarizona.org/).
 
 **Saber Razmjooei** - Saber is a one of the [Lutra Consulting](https://www.lutraconsulting.co.uk/) co-founders. Lutra is an active member of QGIS development community.
 
-### 1- Loading and Styling Point Clouds in 2D
+### Introduction - What is a point cloud?
+Point cloud datasets consist of a collection of points in 3D space (up to billions, even trillions), collected using laser scanning (LiDAR) or photogrammetry. LIDAR is an acronym for 
+*"light detection and ranging"*. It is remote sensing technology that uses lasers to measure distances to reflective surfaces. The density of points can vary, 
+providing detailed information about the scanned area. Additionally, point clouds have attributes including X, Y and Z coordinates, a classification and intensity. 
+
+Point clouds can be used to visualize the landscape including built features and vegetation. Attributes can be used to style the points in different colors. By using the variety of 
+QGIS point cloud rendering settings you can highlight many different aspects of the terrain. Point clouds can be viewed in both the 2D Map Canvas and the 3D viewer. They can also 
+be used with Elevation Profiles to show the cross section of a point cloud where measurements can be made between points. One can also interact with point cloud data using the Identify 
+features tool. This tool works in the 2D Map Canvas, within Elevation profile plots and 3D views. 
+
+#### Point Cloud Supported Formats
+QGIS supports the industry standard file formats *.las and the compressed *.laz. QGIS also provides support for reading Cloud Optimized Point Clouds (COPC) from local and remote data sources. 
+Support for point cloud data was added at QGIS version 3.18 in the spring of 2021. New point cloud functionality has been added at nearly each release since, including the most recent 
+QGIS 3.42 Münster. The most recent funcionality introduced is the ability to edit point cloud datasets. The main editing functionality was introduced at QGIS v 3.42 and there will be additional 
+editing features added at QGIS 3.44. You will learn how to edit point clouds at the end of the workshop. 
+
+ ### 1- Loading and Styling Point Clouds in 2D
 * Behavior on load the first time
 * Layer properties and Information processing algorithm
 * Rendering in 2D
