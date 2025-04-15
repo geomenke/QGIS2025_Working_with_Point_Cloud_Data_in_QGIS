@@ -19,7 +19,7 @@ To participate in this workshop, you will need QGIS 3.42 Münster. This is the l
 You can download it from the [official QGIS website](https://qgis.org/) or by using the OSGeo4W installer. During the workshop you can use your own point cloud data or the open data 
 that we will provide.
 
-![QGIS Munster](img/splash_3_42.png)
+<img src="img/splash_3_42.png" alt="drawing" width="300"/>
 
 ### Instructors
 This workshop has been developed by Kurt Menke and Saber Razmjooei for the QGIS User Conference 2025, in Norrköping, Sweden from 2-3 June 2025.
@@ -47,6 +47,11 @@ QGIS supports the industry standard file formats *.las and the compressed *.laz.
 Support for point cloud data was added at QGIS version 3.18 in the spring of 2021. New point cloud functionality has been added at nearly each release since, including the most recent 
 QGIS 3.42 Münster. The most recent funcionality introduced is the ability to edit point cloud datasets. The main editing functionality was introduced at QGIS v 3.42 and there will be additional 
 editing features added at QGIS 3.44. You will learn how to edit point clouds at the end of the workshop. 
+
+### Tutorial
+The tutorial can be accessed via this [link](https://docs.google.com/document/d/1hWMghUmzSkYkUm4cvnHn2DKLEzGdnxf6dnSMIHNWNfM/edit?usp=sharing)
+
+#### Outline
 
  ### 1- Loading and Styling Point Clouds in 2D
 * Behavior on load the first time
