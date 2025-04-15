@@ -45,7 +45,7 @@ features tool. This tool works in the 2D Map Canvas, within Elevation profile pl
 #### Point Cloud Supported Formats
 QGIS supports the industry standard file formats *.las and the compressed *.laz. QGIS also provides support for reading Cloud Optimized Point Clouds (COPC) from local and remote data sources. 
 Support for point cloud data was added at QGIS version 3.18 in the spring of 2021. New point cloud functionality has been added at nearly each release since, including the most recent 
-QGIS 3.42 Münster. The most recent funcionality introduced is the ability to edit point cloud datasets. The main editing functionality was introduced at QGIS v 3.42 and there will be additional 
+QGIS 3.42 Münster. The most recent functionality introduced, is the ability to edit point cloud datasets. The main editing functionality was introduced at QGIS v 3.42 and there will be additional 
 editing features added at QGIS 3.44. You will learn how to edit point clouds at the end of the workshop. 
 
 ### Tutorial
