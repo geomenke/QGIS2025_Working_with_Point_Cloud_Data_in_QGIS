@@ -19,6 +19,8 @@ To participate in this workshop, you will need QGIS 3.42 Münster. This is the l
 You can download it from the [official QGIS website](https://qgis.org/) or by using the OSGeo4W installer. During the workshop you can use your own point cloud data or the open data 
 that we will provide.
 
+![QGIS Munster](img/splash_3_42.png)
+
 ### Instructors
 This workshop has been developed by Kurt Menke and Saber Razmjooei for the QGIS User Conference 2025, in Norrköping, Sweden from 2-3 June 2025.
 
