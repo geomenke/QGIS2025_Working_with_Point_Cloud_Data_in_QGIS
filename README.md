@@ -54,37 +54,11 @@ Download this zip file. Extract the zip archive in a dedicated folder on your ha
 ### Tutorial
 The tutorial can be accessed via this [link](https://docs.google.com/document/d/1hWMghUmzSkYkUm4cvnHn2DKLEzGdnxf6dnSMIHNWNfM/edit?usp=sharing)
 
-#### Outline
+### Outline
 
- ### 1- Loading and Styling Point Clouds in 2D
-* Behavior on load the first time
-* Layer properties and Information processing algorithm
-* Rendering in 2D
-* Extent only
-* Attribute by ramp
-* RGB
-* Classification
-* Point symbol options
-* Render as a surface
-* Draw order
-* Working with Elevation Profiles
-
-### 2- Viewing Point Clouds in 3D
-* Styling settings
-* Eye dome lighting | Show shadows | Ambient occlusion
-* Navigation
-* Exporting still frames for an animation
-
-### 3- Creating and Using Virtual Point Clouds (VPCs)
-Point cloud data is often provided in tiles. After downloading the tiles you need to merge them for further analysis. With virtual point clouds, you don't need to physically merge the tiles. You instead create a VPC which is a JSON file with a .vpc extension. It is a similar concept as virtual rasters. The VPC references a set of point cloud files (*.LAZ, *.LAS, *.COPC). This allows you to work with the VPC as if you have merged all the input tiles. This can reduce the amount of disk space needed for intermediate results.
-
-### 4- Using Point Cloud Processing Tools (Clip - Filter - Export to Raster)
-* Clip
-* Filter
-* Export to Raster
-* Style DEM
-* Calculating point density
-
-### 5 - Editing Point Clouds
-
-### 6 - Using PDAL Wrench
+##### 1 - Loading and Styling Point Clouds in 2D
+##### 2 - Viewing Point Clouds in 3D
+##### 3 - Creating and Using Virtual Point Clouds (VPCs)
+##### 4 - Using Point Cloud Processing Tools (Clip - Filter - Export to Raster)
+##### 5 - Editing Point Clouds
+##### 6 - Using PDAL Wrench
