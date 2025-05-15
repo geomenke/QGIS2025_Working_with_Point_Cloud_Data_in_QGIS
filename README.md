@@ -59,6 +59,6 @@ The tutorial can be accessed via this [link](https://docs.google.com/document/d/
 ##### 1 - Loading and Styling Point Clouds in 2D
 ##### 2 - Viewing Point Clouds in 3D
 ##### 3 - Creating and Using Virtual Point Clouds (VPCs)
-##### 4 - Using Point Cloud Processing Tools (Clip - Filter - Export to Raster)
+##### 4 - Using Point Cloud Processing Tools
 ##### 5 - Editing Point Clouds
 ##### 6 - Using PDAL Wrench
