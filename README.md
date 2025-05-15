@@ -49,7 +49,7 @@ QGIS 3.42 Münster. The most recent functionality introduced, is the ability to 
 editing features added at QGIS 3.44. You will learn how to edit point clouds at the end of the workshop. 
 
 ### Workshop Data
-Download this zip file. Extract the zip archive in a dedicated folder on your hard drive.
+Download this [zip file](https://drive.google.com/drive/folders/1MSyz14Y7d8IDWOwPa4avCDW0Q40BdBIM?usp=sharing). Extract the zip archive in a dedicated folder on your hard drive.
 
 ### Tutorial
 The tutorial can be accessed via this [link](https://docs.google.com/document/d/1hWMghUmzSkYkUm4cvnHn2DKLEzGdnxf6dnSMIHNWNfM/edit?usp=sharing)
