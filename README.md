@@ -9,8 +9,8 @@ This workshop will teach you how to work with point cloud data in QGIS. You will
 * Creating profiles and cross sections.
 * Styling point clouds using different attributes and color palettes.
 * Filtering and clipping point clouds to focus on specific areas of interest.
-* Performing basic point cloud processing tasks, such as calculating point density and creating digital elevation models.
-* Editing point clouds to remove noise or correct errors.
+* Performing basic point cloud processing tasks, such as calculating point density and creating digital surface models.
+* Editing point clouds to correct attribute errors.
 
 By the end of this workshop, you will be able to use QGIS to effectively visualize, analyze, and process point cloud data.
 
@@ -51,7 +51,7 @@ editing features added at QGIS 3.44. You will learn how to edit point clouds at 
 ### Workshop Data
 Download this [zip file](https://drive.google.com/file/d/1q5q0uSJii9htEKU8r99o9R6i51P3MSkS/view?usp=sharing). Extract the zip archive in a dedicated folder on your hard drive.
 
-### Tutorial
+### Tutorial Document
 The tutorial can be accessed via this [link](https://docs.google.com/document/d/1hWMghUmzSkYkUm4cvnHn2DKLEzGdnxf6dnSMIHNWNfM/edit?usp=sharing)
 
 ### Outline
