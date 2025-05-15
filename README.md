@@ -15,11 +15,11 @@ This workshop will teach you how to work with point cloud data in QGIS. You will
 By the end of this workshop, you will be able to use QGIS to effectively visualize, analyze, and process point cloud data.
 
 #### Software
-To participate in this workshop, you will need QGIS 3.42 Münster. This is the latest stable release of QGIS and importantly includes most of the new point cloud processing features. 
-You can download it from the [official QGIS website](https://qgis.org/) or by using the OSGeo4W installer. During the workshop you can use your own point cloud data or the open data 
-that we will provide.
-
-<img src="img/splash_3_42.png" alt="drawing" width="300"/>
+To participate in this workshop, you will need a minimum of QGIS 3.42 Münster. This is the latest stable release of QGIS and importantly includes some of the new point 
+cloud editing features. However, ideally install the QGIS Nightly release (3.43.x). This release will be important for the Editing section. You can download it from 
+the [official QGIS website](https://qgis.org/) or by using the OSGeo4W installer. For MacOS users, try to download and install the DMG file from this pull request. For Debian based users, 
+you can use QGIS Flatpack or change the repo. During the workshop you can use your own point cloud data or the open data that we will provide.
+We will provide the data for the workshop.
 
 ### Instructors
 This workshop has been developed by Kurt Menke and Saber Razmjooei for the QGIS User Conference 2025, in Norrköping, Sweden from 2-3 June 2025.
