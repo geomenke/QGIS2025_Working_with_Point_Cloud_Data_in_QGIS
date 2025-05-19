@@ -15,11 +15,18 @@ This workshop will teach you how to work with point cloud data in QGIS. You will
 By the end of this workshop, you will be able to use QGIS to effectively visualize, analyze, and process point cloud data.
 
 #### Software
-To participate in this workshop, you will need a minimum of QGIS 3.42 Münster. This is the latest stable release of QGIS and importantly includes some of the new point 
-cloud editing features. However, ideally install the QGIS Nightly release (3.43.x). This release will be important for the Editing section. You can download it from 
-the [official QGIS website](https://qgis.org/) or by using the OSGeo4W installer. For MacOS users, try to download and install the DMG file from this [pull request](https://github.com/qgis/QGIS/pull/60039). For Debian based users, 
-you can use QGIS Flatpack or change the repo. During the workshop you can use your own point cloud data or the open data that we will provide.
-We will provide the data for the workshop.
+Software:
+To get the most out of this workshop you are encouraged to install the nightly release of QGIS (v 3.43). There are several important enhancements to working with point clouds which will be included in the next stable release of QGIS (v. 3.44), later in June. If you can run the nightly release you will have access to these important features. Minimally, you will need the latest stable release - QGIS 3.42 Münster.
+
+If using Windows, you can download it from the official [QGIS website](https://qgis.org/download/) or by using the OSGeo4W installer.
+
+For MacOS users, try to download and install the DMG file from this [pull request](https://github.com/qgis/QGIS/pull/60039).
+
+For Debian based users, you can use QGIS Flatpack or change the repo.
+
+Note: If you will be using a corporate laptop where permissions can be problematic, consider getting these installations completed with IT before you travel to the conference.
+
+Note 2: It is recommended that you also bring a tablet. There is an accompanying step-by-step tutorial. Having a tablet will allow you to read the tutorial on your tablet while working on your laptop.
 
 ### Instructors
 This workshop has been developed by Kurt Menke and Saber Razmjooei for the QGIS User Conference 2025, in Norrköping, Sweden from 2-3 June 2025.
