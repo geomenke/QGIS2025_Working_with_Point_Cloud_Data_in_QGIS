@@ -18,11 +18,9 @@ By the end of this workshop, you will be able to use QGIS to effectively visuali
 Software:
 To get the most out of this workshop you are encouraged to install the nightly release of QGIS (greater than v 3.43.0-946). There are several important enhancements to working with point clouds which will be included in the next stable release of QGIS (v. 3.44), later in June. If you can run the nightly release, you will have access to these important features. Minimally, you will need the latest stable release - QGIS 3.42 Münster.
 
-If using Windows, you can download it from the official [QGIS website](https://qgis.org/download/) or by using the OSGeo4W installer.
-
-For MacOS users, try to download and install the DMG file from this [pull request](https://github.com/qgis/QGIS/pull/60039).
-
-For Debian based users, you can use QGIS Flatpack or change the repo.
+* If using Windows, you can download it from the official [QGIS website](https://qgis.org/download/) or by using the OSGeo4W installer.
+* For MacOS users, try to download and install the DMG file from this [pull request](https://github.com/qgis/QGIS/pull/60039).
+* For Debian based users, you can use QGIS Flatpack or change the repo.
 
 Note: If you will be using a corporate laptop where permissions can be problematic, consider getting these installations completed with IT before you travel to the conference.
 
