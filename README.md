@@ -22,9 +22,9 @@ To get the most out of this workshop you are encouraged to install the nightly r
 * For MacOS users, try to download and install the DMG file from this [pull request](https://github.com/qgis/QGIS/pull/60039).
 * For Debian based users, you can use QGIS Flatpack or change the repo.
 
-Note: If you will be using a corporate laptop where permissions can be problematic, consider getting these installations completed with IT before you travel to the conference.
+**Note 1**: If you will be using a corporate laptop where permissions can be problematic, consider getting these installations completed with IT before you travel to the conference.
 
-Note 2: It is recommended that you also bring a tablet. There is an accompanying step-by-step tutorial. Having a tablet will allow you to read the tutorial on your tablet while working on your laptop.
+**Note 2**: It is recommended that you also bring a tablet. There is an accompanying step-by-step tutorial. Having a tablet will allow you to read the tutorial on your tablet while working on your laptop.
 
 ### Instructors
 This workshop has been developed by Kurt Menke and Saber Razmjooei for the QGIS User Conference 2025, in Norrköping, Sweden from 2-3 June 2025.
