@@ -59,6 +59,9 @@ Download this [zip file](https://drive.google.com/file/d/1q5q0uSJii9htEKU8r99o9R
 ### Tutorial Document
 The tutorial can be accessed via this [link](https://docs.google.com/document/d/1hWMghUmzSkYkUm4cvnHn2DKLEzGdnxf6dnSMIHNWNfM/edit?usp=sharing)
 
+### Presentation
+The presentation can be found here as Google slides: [link](https://docs.google.com/presentation/d/15ndpZ1ho-M34LPC6t6shSXWj_uHCbEOlJT1KzKUvFhk/edit?usp=sharing).
+
 ### Outline
 
 ##### 1 - Loading and Styling Point Clouds in 2D
